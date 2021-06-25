@@ -26,13 +26,38 @@ async function main() {
     json: true,
   });
 
-  console.log("Results = ", results);
+  const resultsArr = results.records;
+  const teamData = [];
 
-  //   await fs.promises.writeFile("output.json", JSON.stringify(results, null, 2));
-  app.get("/", function (req, res) {
-    res.json(results.records[0].teamRecords);
+  resultsArr.forEach((result) => {
+    if (result.standingsType === "regularSeason") {
+      result.teamRecords.forEach((team) => {
+        teamData.push({
+          teamId: team.team.id,
+          team: team.team.name,
+          winStreak: team.streak.streakNumber,
+          wins: team.wins,
+          losses: team.losses,
+          winPercentage: team.winningPercentage,
+          gamesPlayed: team.gamesPlayed,
+        });
+      });
+    }
+
+    // if (index === resultsArr.teamRecords.length - 1) {
+    //   //   await fs.promises.writeFile("output.json", JSON.stringify(results, null, 2));
+    //   app.get("/", function (req, res) {
+    //     // res.json(results.records[0].teamRecords);
+    //     res.json(teamData);
+    //   });
+    // }
   });
 
+  app.get("/", function (req, res) {
+    // res.json(results.records);
+    // res.json(results.records[0].teamRecords);
+    res.json(teamData);
+  });
   console.log("Done!");
 }
 
