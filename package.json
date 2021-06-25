@@ -1,0 +1,27 @@
+{
+  "name": "curl-practice",
+  "version": "1.0.0",
+  "description": "cURL practice",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-jq": "^1.12.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tniles320/cURL-practice.git"
+  },
+  "author": "Taylor Niles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tniles320/cURL-practice/issues"
+  },
+  "homepage": "https://github.com/tniles320/cURL-practice#readme"
+}
