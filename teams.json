@@ -1,0 +1,272 @@
+[
+  {
+    "teamId": 117,
+    "team": "Houston Astros",
+    "winStreak": "\"L1\"",
+    "wins": 48,
+    "losses": 30,
+    "winPercentage": ".615",
+    "gamesPlayed": 78
+  },
+  {
+    "teamId": 133,
+    "team": "Oakland Athletics",
+    "winStreak": "\"W1\"",
+    "wins": 47,
+    "losses": 33,
+    "winPercentage": ".588",
+    "gamesPlayed": 80
+  },
+  {
+    "teamId": 136,
+    "team": "Seattle Mariners",
+    "winStreak": "\"L1\"",
+    "wins": 41,
+    "losses": 38,
+    "winPercentage": ".519",
+    "gamesPlayed": 79
+  },
+  {
+    "teamId": 108,
+    "team": "Los Angeles Angels",
+    "winStreak": "\"W1\"",
+    "wins": 37,
+    "losses": 40,
+    "winPercentage": ".481",
+    "gamesPlayed": 77
+  },
+  {
+    "teamId": 140,
+    "team": "Texas Rangers",
+    "winStreak": "\"W3\"",
+    "wins": 30,
+    "losses": 48,
+    "winPercentage": ".385",
+    "gamesPlayed": 78
+  },
+  {
+    "teamId": 111,
+    "team": "Boston Red Sox",
+    "winStreak": "\"W3\"",
+    "wins": 47,
+    "losses": 31,
+    "winPercentage": ".603",
+    "gamesPlayed": 78
+  },
+  {
+    "teamId": 139,
+    "team": "Tampa Bay Rays",
+    "winStreak": "\"L1\"",
+    "wins": 47,
+    "losses": 32,
+    "winPercentage": ".595",
+    "gamesPlayed": 79
+  },
+  {
+    "teamId": 141,
+    "team": "Toronto Blue Jays",
+    "winStreak": "\"W2\"",
+    "wins": 40,
+    "losses": 36,
+    "winPercentage": ".526",
+    "gamesPlayed": 76
+  },
+  {
+    "teamId": 147,
+    "team": "New York Yankees",
+    "winStreak": "\"L3\"",
+    "wins": 40,
+    "losses": 37,
+    "winPercentage": ".519",
+    "gamesPlayed": 77
+  },
+  {
+    "teamId": 110,
+    "team": "Baltimore Orioles",
+    "winStreak": "\"L2\"",
+    "wins": 24,
+    "losses": 54,
+    "winPercentage": ".308",
+    "gamesPlayed": 78
+  },
+  {
+    "teamId": 145,
+    "team": "Chicago White Sox",
+    "winStreak": "\"W1\"",
+    "wins": 45,
+    "losses": 32,
+    "winPercentage": ".584",
+    "gamesPlayed": 77
+  },
+  {
+    "teamId": 114,
+    "team": "Cleveland Indians",
+    "winStreak": "\"L2\"",
+    "wins": 41,
+    "losses": 33,
+    "winPercentage": ".554",
+    "gamesPlayed": 74
+  },
+  {
+    "teamId": 116,
+    "team": "Detroit Tigers",
+    "winStreak": "\"W1\"",
+    "wins": 34,
+    "losses": 44,
+    "winPercentage": ".436",
+    "gamesPlayed": 78
+  },
+  {
+    "teamId": 118,
+    "team": "Kansas City Royals",
+    "winStreak": "\"L5\"",
+    "wins": 33,
+    "losses": 43,
+    "winPercentage": ".434",
+    "gamesPlayed": 76
+  },
+  {
+    "teamId": 142,
+    "team": "Minnesota Twins",
+    "winStreak": "\"W2\"",
+    "wins": 33,
+    "losses": 43,
+    "winPercentage": ".434",
+    "gamesPlayed": 76
+  },
+  {
+    "teamId": 158,
+    "team": "Milwaukee Brewers",
+    "winStreak": "\"W5\"",
+    "wins": 45,
+    "losses": 33,
+    "winPercentage": ".577",
+    "gamesPlayed": 78
+  },
+  {
+    "teamId": 112,
+    "team": "Chicago Cubs",
+    "winStreak": "\"L3\"",
+    "wins": 42,
+    "losses": 36,
+    "winPercentage": ".538",
+    "gamesPlayed": 78
+  },
+  {
+    "teamId": 113,
+    "team": "Cincinnati Reds",
+    "winStreak": "\"L1\"",
+    "wins": 38,
+    "losses": 38,
+    "winPercentage": ".500",
+    "gamesPlayed": 76
+  },
+  {
+    "teamId": 138,
+    "team": "St. Louis Cardinals",
+    "winStreak": "\"L1\"",
+    "wins": 37,
+    "losses": 41,
+    "winPercentage": ".474",
+    "gamesPlayed": 78
+  },
+  {
+    "teamId": 134,
+    "team": "Pittsburgh Pirates",
+    "winStreak": "\"W1\"",
+    "wins": 29,
+    "losses": 47,
+    "winPercentage": ".382",
+    "gamesPlayed": 76
+  },
+  {
+    "teamId": 137,
+    "team": "San Francisco Giants",
+    "winStreak": "\"L1\"",
+    "wins": 50,
+    "losses": 27,
+    "winPercentage": ".649",
+    "gamesPlayed": 77
+  },
+  {
+    "teamId": 119,
+    "team": "Los Angeles Dodgers",
+    "winStreak": "\"W3\"",
+    "wins": 47,
+    "losses": 31,
+    "winPercentage": ".603",
+    "gamesPlayed": 78
+  },
+  {
+    "teamId": 135,
+    "team": "San Diego Padres",
+    "winStreak": "\"W1\"",
+    "wins": 47,
+    "losses": 33,
+    "winPercentage": ".588",
+    "gamesPlayed": 80
+  },
+  {
+    "teamId": 115,
+    "team": "Colorado Rockies",
+    "winStreak": "\"L3\"",
+    "wins": 31,
+    "losses": 47,
+    "winPercentage": ".397",
+    "gamesPlayed": 78
+  },
+  {
+    "teamId": 109,
+    "team": "Arizona Diamondbacks",
+    "winStreak": "\"L1\"",
+    "wins": 22,
+    "losses": 57,
+    "winPercentage": ".278",
+    "gamesPlayed": 79
+  },
+  {
+    "teamId": 121,
+    "team": "New York Mets",
+    "winStreak": "\"L1\"",
+    "wins": 40,
+    "losses": 33,
+    "winPercentage": ".548",
+    "gamesPlayed": 73
+  },
+  {
+    "teamId": 120,
+    "team": "Washington Nationals",
+    "winStreak": "\"W1\"",
+    "wins": 37,
+    "losses": 38,
+    "winPercentage": ".493",
+    "gamesPlayed": 75
+  },
+  {
+    "teamId": 144,
+    "team": "Atlanta Braves",
+    "winStreak": "\"W1\"",
+    "wins": 37,
+    "losses": 40,
+    "winPercentage": ".481",
+    "gamesPlayed": 77
+  },
+  {
+    "teamId": 143,
+    "team": "Philadelphia Phillies",
+    "winStreak": "\"W1\"",
+    "wins": 36,
+    "losses": 39,
+    "winPercentage": ".480",
+    "gamesPlayed": 75
+  },
+  {
+    "teamId": 146,
+    "team": "Miami Marlins",
+    "winStreak": "\"L1\"",
+    "wins": 33,
+    "losses": 44,
+    "winPercentage": ".429",
+    "gamesPlayed": 77
+  }
+]
