@@ -1,12 +1,12 @@
 {
-  "name": "curl-practice",
+  "name": "mlb_data_scrape",
   "version": "1.0.0",
-  "description": "cURL practice",
+  "description": "Scrapes data from mlb website",
   "main": "server.js",
   "dependencies": {
     "mysql": "^2.18.1",
-    "node-jq": "^1.12.0",
-    "puppeteer": "^10.0.0",
+    "node-jq": "^2.3.5",
+    "puppeteer": "^20.0.0",
     "request": "^2.88.2",
     "request-promise-native": "^1.0.9"
   },
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tniles320/cURL-practice.git"
+    "url": "git+https://github.com/tniles320/mlb_data_scrape.git"
   },
   "author": "Taylor Niles",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tniles320/cURL-practice/issues"
+    "url": "https://github.com/tniles320/mlb_data_scrape/issues"
   },
-  "homepage": "https://github.com/tniles320/cURL-practice#readme"
+  "homepage": "https://github.com/tniles320/mlb_data_scrape#readme"
 }
