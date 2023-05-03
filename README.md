@@ -33,7 +33,7 @@ npm install
 
 ## Usage
 
-From the home page, choose to navigate to the 'saved books' page or the 'search books' page. On the 'search' page a user can enter in the name of a book or collection of books to search for. The data collected from the Google Books API will then be displayed below in a results container. Each search result has the option to be saved or viewed on a google search page. All saved books will be stored in a Mongo database and can be viewed on the 'saved books' page. Here, a user can view the databases saved books and decide to navigate to a google search page with the book parameters, or delete the book from the database.
+Run npm start to start the application. Default browser is headless, but commenting/uncommenting options in browser.js will allow you run in a headful browser. Uncomment functions.dbEntry and update dbEntry.js to add data to local MySQL database.
 
 ## License
 
